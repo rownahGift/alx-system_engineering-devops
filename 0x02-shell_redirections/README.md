@@ -18,3 +18,4 @@
 16. whats next- > Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 17. i hate bins- > Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18. letters only please- > Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19. A to Z- > Replace all characters A and c from input to Z and e respectively.
