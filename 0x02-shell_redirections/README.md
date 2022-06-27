@@ -14,3 +14,4 @@
 12. whats new- >Create a script that displays the 10 newest files in the current directory.
 13. being unoque is better than being perfect- > Create a script that takes a list of words as input and prints only words that appear exactly once.
 14. it must be in that file- > Display lines containing the pattern “root” from the file /etc/passwd
+15. count that word- > Display the number of lines that contain the pattern “bin” in the file /etc/passwd
